@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Ashlesha Gangdhar 👋
 
-<!--
-**ashleshagangdhar/ashleshagangdhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about transforming raw data into meaningful insights and business decisions.
+
+## Skills
+- SQL
+- Python
+- Power BI
+- Excel
+- Data Visualization
+
+## Projects
+📌 Credit Card Financial Dashboard Using Power BI
+
+📌 E-Commerce Sales Performance Dashboard Using Power BI
+
+📌 Netflix EDA Project
+
+📌 Superstore EDA Project
+
+📌 Domestic Waste Management System
+
+📌 Superstore Sales Analysis Using SQL
+
+## Connect With Me
+🔗 LinkedIn: www.linkedin.com/in/ashlesha-gangdhar-b30456301
+
+🔗 GitHub: https://github.com/ashleshagangdhar
